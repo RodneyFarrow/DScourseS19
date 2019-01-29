@@ -1,0 +1,30 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Problem Set 2}
+\author{Rodney Farrow }
+\date{January 2019}
+
+\begin{document}
+
+\maketitle
+
+\section{Part I}
+\subsection{Important tools for data economists}
+
+\item[a] Web Scrapers:
+\item[a] Using an API to gather data or HTML to parse data for collection purposes
+
+\item[b] Programming Languages:
+\item[b] Programs used for statistical analysis
+
+\item[c] Large Data Set Handlers:
+\item[c] When data sets are too large for personal computers, we use RDD's and SQL to open and manage data
+
+\item[d] Data Visualization:
+\item[d] A tool used in programming languages to help with understanding data
+
+
+
+
+\end{document}
